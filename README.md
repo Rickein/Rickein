@@ -1,12 +1,9 @@
-## Welcome!
-
-
-# I'm Rick Gonçalves!
+## Rick Gonçalves Veras
 
  
-:computer: I'm FullStack Developer!
+:computer: FullStack Developer!
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: from Brazil.
 
 :books: I’m currently learning everything.
 
